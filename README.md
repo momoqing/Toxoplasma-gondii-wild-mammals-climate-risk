@@ -8,7 +8,11 @@ The manuscript is intended for submission to *The Lancet Planetary Health*. This
 
 ## Repository status
 
-This repository accompanies a manuscript under submission. A permanent archived version with a DOI will be generated upon publication.
+This repository accompanies a manuscript under submission. A permanent archived version is available through Zenodo: https://doi.org/10.5281/zenodo.20226412
+        
+        
+        
+        .
 
 Recommended data-sharing statement:
 
