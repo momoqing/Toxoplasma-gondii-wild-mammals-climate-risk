@@ -4,7 +4,7 @@ This repository contains the study-level data and R analysis scripts supporting 
 
 **Persistent tropical hotspots and regional redistribution of *Toxoplasma gondii* infection risk in wild mammals under climate change**
 
-The manuscript is intended for submission to *The Lancet Planetary Health*. This repository is prepared for research transparency, reproducibility, and post-publication data sharing.
+This repository is prepared for research transparency, reproducibility, and post-publication data sharing.
 
 ## Repository status
 
@@ -12,7 +12,9 @@ This repository accompanies a manuscript under submission. A permanent archived 
         
         
         
-https://doi.org/10.5281/zenodo.20226412.
+https://doi.org/10.5281/zenodo.20226412
+        
+        .
 
 Recommended data-sharing statement:
 
